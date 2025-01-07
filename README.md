@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Anushka Ubriani
-- 👀 I’m interested in Business Forecasting
-- 🌱 I’m currently pursuing Master in Information Technology and Analytics and looking to collaborate on Projects regarding Business Foreacsting and Analytics.
-- Reach out to me - anushkaubriani@gmail.com
+- 👀 I’m a Business Analyst experienced in analyzing and interpreting the data for driving business solutions having an in-depth knowledge of analytical tools and a very passionate approach to making positive contributions.
 
 <!---
 anushkau/anushkau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
